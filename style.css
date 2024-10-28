@@ -1,0 +1,74 @@
+body{
+    background-color: black;
+}
+
+
+h1{
+color: rgb(255, 0, 0);
+    
+}
+
+
+
+.odd{
+    color: rgb(0, 255, 221);
+}
+
+.src{
+    color: rgb(255, 0, 0);
+}
+
+.Embedded{
+    color: rgb(255, 0, 0);
+}
+
+#Copyright{
+    color: rgb(255, 0, 0);
+}
+
+.features{
+    color: rgb(255, 0, 0);
+}
+
+#intro{
+    color: rgb(255, 0, 0);
+}
+
+.description{
+    color: rgb(0, 255, 221);
+}
+
+.table{
+    color: rgb(0, 255, 221);
+}
+
+
+.contact{
+    color: rgb(255, 0, 0);
+}
+
+.mail{
+    color: rgb(255, 0, 0);
+    font-size: 16px;
+}
+
+.message{
+    color: rgb(255, 0, 0);
+    font-size: 17px;
+}
+
+.p{
+    color: rgb(0, 255, 221);
+}
+
+.Location{
+    color: rgb(255, 0, 0);
+}
+
+.audio{
+    color: rgb(255, 0, 0);
+}
+
+.video{
+    color: rgb(255, 0, 0);
+}
